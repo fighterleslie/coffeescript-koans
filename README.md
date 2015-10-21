@@ -1,3 +1,6 @@
+# Practice CoffeeScript by TDD
+Answers are provided on the `answer` branch.
+
 # CoffeeScript Koans
 The goal of the CoffeeScript koans is to teach you [CoffeeScript](http://coffeescript.org/) programming through actually doing it, in a test-first fashion. 
 
